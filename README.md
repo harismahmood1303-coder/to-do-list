@@ -12,5 +12,6 @@ This project is for beginners to practice Python basics like lists, loops, and u
 ## 🛠 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourname/todo-list-python.git
-   cd todo-list-python
+   git clone /Users/harismahmood/Documents/GitHub/to-do-list
+   cd to-do-list
+   open to-do-list-python
