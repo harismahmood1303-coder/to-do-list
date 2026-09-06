@@ -1,7 +1,7 @@
 # To-Do List (Python Console App)
 
 A simple console-based To-Do List app written in Python.  
-This project is for beginners to practice Python basics like lists, loops, and user input.
+This project is my beginner project  to practice Python basics like lists, loops, and user input.
 
 ## 🚀 Features
 - Add new tasks
